@@ -1,0 +1,175 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+body{
+
+    background-color: rgb(227, 238, 234);
+    font-family: 'Roboto', sans-serif;
+}
+
+.propic{
+
+width: 100px;
+height: 90px;
+border: 3px solid white;
+border-radius: 50%;
+
+float: left;
+}
+
+.container{
+    max-width: 1000px;
+   
+    margin: 0 auto;
+    background-color:#e4f9f5;
+    overflow: auto;
+    padding: 20px;
+    }
+
+    .bio{
+
+
+        padding:30px;
+        float: left;
+        
+        }
+
+        .contact{
+
+
+            padding:30px;
+            float: right;
+            
+            }
+
+            .contact a{
+
+                text-decoration: none;
+                color: teal;
+                font-weight: bold;
+                
+                }
+
+                h1,h2,h3,h4,h5,h6{
+
+               color: #11999e;
+
+
+                }
+
+                .hr-top{
+
+border: 3px solid black;
+margin: 15px auto;
+border-bottom: none;
+
+                }
+
+                .clear-div{
+
+               clear: both;
+
+                }
+                
+            
+        
+.p-cont{
+
+padding: 20px;
+margin: 15px;
+
+}
+
+
+
+.p-left{
+
+    float: left;
+width: 30%;
+}
+
+.p-mid{
+
+    float: left;
+width: 30%;
+text-align: justify;
+}
+
+
+
+.p-right{
+width: 70%;
+
+    float: left;
+
+}
+
+.edu-right{
+    width: 30%;
+    
+        float: left;
+    padding-left: 10%;
+    text-align: justify;
+    }
+
+.com-hr{
+
+margin: 1px solid black;
+margin: 15px auto;
+
+}
+
+.p-cont a{
+
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+    
+    }
+
+   
+
+        .p-cont a:hover{
+
+            color: rgb(81, 81, 201);
+            text-decoration: underline;
+            
+            }
+
+            .f-cont a{
+
+                text-decoration: none;
+                color: rgb(231, 243, 243);
+                font-weight: bold;
+                margin: 20px;
+                
+                }
+
+                .f-cont p{
+
+                    text-decoration: none;
+                    color: rgb(222, 231, 231);
+                    font-weight: bold;
+                    margin: 20px;
+                    
+                    }
+
+                .f-cont{
+
+                   background-color: black;
+                    
+                    color: beige;
+                    text-align: center;
+                    padding: 20px;
+                    margin-top: 10px;
+                }
+
+                a:hover{
+
+              color: rgb(107, 107, 207);
+              text-decoration: underline;
+
+                }
